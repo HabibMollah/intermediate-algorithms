@@ -1,4 +1,5 @@
-let letters = ['a', 'b', 'c'];
-console.log(letters[0]);
-console.log(letters[1]);
-console.log(letters[2]);
+function rot13(str) {
+	return str;
+}
+
+rot13('SERR PBQR PNZC');
